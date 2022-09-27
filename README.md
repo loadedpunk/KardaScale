@@ -1,0 +1,2 @@
+# KardaScale
+Humanity's standard
